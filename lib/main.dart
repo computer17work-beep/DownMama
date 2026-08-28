@@ -20,7 +20,7 @@ class DownMamaApp extends StatelessWidget {
             'DownMama',
             style: TextStyle(
               fontSize: 32,
-              fontWeight: FontWeight.bold,
+              fontWeight: FontWeight.w800,
               color: AppColors.cyan,
             ),
           ),
